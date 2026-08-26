@@ -1,9 +1,9 @@
-Hi I'm Dharunika.
+Hi, I'm Dharunika 
 
-🚀 Prompt Engineering Enthusiast | Frontend Developer | UI/UX Designer. 
+🎓 Information Technology Student | Java Developer | AI/ML Enthusiast
 
-Passionate about building intelligent prompts and creating responsive, user-friendly web experiences. 
+💻 Building software solutions with Java, Python, SQL, and AI/ML.
 
-Skilled in C, C++, Java, JavaScript, HTML, CSS & DBMS.
+🔍 Interested in Artificial Intelligence, Machine Learning, Prompt Engineering, and Software Development.
 
-💡 Always passionate about design, creativity, and continuous learning.
+🚀 Passionate about problem-solving, continuous learning, and turning ideas into practical applications.
